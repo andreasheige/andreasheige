@@ -4,5 +4,3 @@
 📍 - Gothenburg, Sweden
 
 👨‍💻 - Front End / Web dev. @ [Grebban](https://grebban.com)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=andreasheige&theme=dracula" />
