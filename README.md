@@ -37,7 +37,6 @@ documented as carefully as the features.
 | Project | What it is |
 |---|---|
 | [copilot-kit](https://github.com/andreasheige/toolkit) | Portable, repo-agnostic framework for Copilot CLI: global rules, specialised agents, reusable skills and a shared-memory protocol |
-| [ecc-copilot](https://github.com/andreasheige/ecc-copilot) | A 7-stage agent pipeline with enforced TDD, multi-model parallel reviews and quality gates |
 | [dogma-skills](https://github.com/andreasheige/dogma-skills) | Critic-loop reasoning: solve → critic → refine, halting when the critic finds nothing substantive |
 | [agentic-orchestration-team](https://github.com/andreasheige/agentic-orchestration-team) | An orchestrator agent delegating to parallel specialist sub-agents on Azure, with scale-to-zero workers |
 | [autograph](https://github.com/andreasheige/autograph) | Agents that turn Git activity into a daily chronicle in Obsidian, using local LLMs |
