@@ -36,6 +36,8 @@ documented as carefully as the features.
 
 | Project | What it is |
 |---|---|
+| [claude-plugins](https://github.com/andreasheige/claude-plugins) | My Claude Code plugins and starter files: guardrails, a plan gate, a dual-loop DevSecOps workflow and .NET knowledge, installable as a plugin marketplace |
+| [My Claude Code setup](https://gist.github.com/andreasheige/700405cb6d3489ffb8867bf6a4c51f6c) (gist) | A tour of the whole harness: guardrails, a plan gate, memory shared across agents, a self-maintaining wiki that "dreams", and what didn't work |
 | [copilot-kit](https://github.com/andreasheige/toolkit) | Portable, repo-agnostic framework for Copilot CLI: global rules, specialised agents, reusable skills and a shared-memory protocol |
 | [dogma-skills](https://github.com/andreasheige/dogma-skills) | Critic-loop reasoning: solve → critic → refine, halting when the critic finds nothing substantive |
 | [agentic-orchestration-team](https://github.com/andreasheige/agentic-orchestration-team) | An orchestrator agent delegating to parallel specialist sub-agents on Azure, with scale-to-zero workers |
